@@ -1,0 +1,3 @@
+If ideoligion precept Comfort:Ignored is used, pawns with this ideoligion do not get the 'ate without table' mood debuff.
+
+UPDATE: It appears that this was a bug that has already been fixed, making this mod obsolete.
